@@ -83,7 +83,7 @@ padding: 0 10px;
 .showcase{
   width: 100%;
   height: 400px;
-  background: url('img/slide1.png') no-repeat center center/cover ;
+  background: url('../img/slide1.png') no-repeat center center/cover ;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -140,7 +140,7 @@ padding: 0 10px;
 .carbon{
   height: 350px;
   width: 100%;
-  background: url('img/carbon.jpg') no-repeat center center/cover;
+  background: url('../img/carbon.jpg') no-repeat center center/cover;
   margin-bottom: 40px;
 }
 .carbon .content{
